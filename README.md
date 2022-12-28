@@ -88,4 +88,8 @@ Users can either run the codes on colab or locally. To run locally, make sure to
     ```commandline
     python rl/RLinfer_single.py
     ```
+    
+## 5 Colab Example
+[link](https://colab.research.google.com/gist/leoxiang66/3c6db947338d3ac887cef991fe5e1ee3/parl_example_1.ipynb)
+> Note: It's recommended to have a RAM of 16GB for the running :)
   
