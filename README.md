@@ -74,9 +74,9 @@ Users can either run the codes on colab or locally. To run locally, make sure to
 
 ## 4 Usage
   We have uploaded the following models and dataset on Huggingface:
-  - fine-tuned Blenderbot-400M-distil 
-  - sentiment classifier for augmenting EmpatheticDialogues dataset
-  - augmented EmpatheticDialogues dataset
+  - [fine-tuned Blenderbot-400M-distil](https://huggingface.co/Adapting/dialogue_agent_nlplab2022)
+  - [sentiment classifier for augmenting EmpatheticDialogues dataset](https://huggingface.co/Adapting/comfort_congratulations_neutral-classifier)
+  - [augmented EmpatheticDialogues dataset](https://huggingface.co/datasets/Adapting/empathetic_dialogues_with_special_tokens)
   
   For Inference/human interaction with RLPA-ODDS:\
   **Attention**: Make sure the trained model is in `./savedmodels`
