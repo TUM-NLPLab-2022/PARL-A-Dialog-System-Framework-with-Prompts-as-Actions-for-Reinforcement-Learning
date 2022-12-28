@@ -20,3 +20,4 @@ tqdm==4.64.0
 transformers==4.19.2
 huggingface-hub==0.8.1
 protobuf==3.17.3
+conversational_sentence_encoder
