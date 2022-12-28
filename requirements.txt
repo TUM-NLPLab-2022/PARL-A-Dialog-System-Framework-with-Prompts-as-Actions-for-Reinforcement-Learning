@@ -22,3 +22,5 @@ huggingface-hub==0.8.1
 protobuf==3.17.3
 conversational_sentence_encoder
 ipykernel==4.10.1
+ipython-genutils==0.2.0
+
