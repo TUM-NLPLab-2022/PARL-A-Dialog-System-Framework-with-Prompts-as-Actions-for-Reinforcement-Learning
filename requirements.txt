@@ -1,4 +1,3 @@
-#conversational_sentence_encoder==0.0.6
 emoji==2.0.0
 filelock==3.7.1
 gensim==3.6.0
@@ -20,7 +19,7 @@ tqdm==4.64.0
 transformers==4.19.2
 huggingface-hub==0.8.1
 protobuf==3.17.3
-conversational_sentence_encoder
+conversational_sentence_encoder==0.0.6
 ipykernel==4.10.1
 ipython-genutils==0.2.0
 
