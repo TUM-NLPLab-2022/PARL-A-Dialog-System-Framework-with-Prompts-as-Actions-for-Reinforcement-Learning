@@ -28,7 +28,7 @@ The repository structure is as follows:
   - /rl.ipynb: example codes for installing and training the RL agent and doing interaction or inference with it.
 - evaluation_and_results:
   - /blenderbot_responses.ipynb: codes for generating responses of the baseline for evaluation.
-  - /RLPA_responses.ipynb: codes for generating responses of RLPA for evaluation.
+  - /RLPA_responses.ipynb: codes for generating responses of PARL for evaluation.
   - /generated_responses.csv: generated responses in summary.
   - /automatic_evaluation.ipynb: codes for automatic evaluation.
   - /automatic_evaluation_results.csv: results of automatic evaluation
@@ -79,7 +79,7 @@ Users can either run the codes on colab or locally. To run locally, make sure to
   - [augmented EmpatheticDialogues dataset](https://huggingface.co/datasets/Adapting/empathetic_dialogues_with_special_tokens)
   - [model weights of the policy network](https://huggingface.co/Adapting/PARL)
   
-  For Inference/human interaction with RLPA-ODDS:\
+  For Inference/human interaction with PARL:\
   **Attention**: Make sure the trained model is in `./savedmodels`
   - Multiple turns of interaction with the fixed network in the environment:
      ```commandline
