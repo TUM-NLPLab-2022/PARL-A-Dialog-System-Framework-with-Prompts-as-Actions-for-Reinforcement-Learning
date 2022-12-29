@@ -77,6 +77,7 @@ Users can either run the codes on colab or locally. To run locally, make sure to
   - [fine-tuned Blenderbot-400M-distil](https://huggingface.co/Adapting/dialogue_agent_nlplab2022)
   - [sentiment classifier for augmenting EmpatheticDialogues dataset](https://huggingface.co/Adapting/comfort_congratulations_neutral-classifier)
   - [augmented EmpatheticDialogues dataset](https://huggingface.co/datasets/Adapting/empathetic_dialogues_with_special_tokens)
+  - [model weights of the policy network](https://huggingface.co/Adapting/PARL)
   
   For Inference/human interaction with RLPA-ODDS:\
   **Attention**: Make sure the trained model is in `./savedmodels`
