@@ -1,4 +1,4 @@
-# Dialog Generation with a Dynamic Human Preference Predictor
+# PARL: A Dialog System Framework with Prompts as Actions for Reinforcement Learning
 
 
 
