@@ -69,7 +69,7 @@ Users can either run the codes on colab or locally. To run locally, make sure to
     All other arguments can be found in rl/RLmain.py
 
 3. automatic evaluation
-   - generate sample responses: run blenderbot_responses.ipynb and [RLPA_responses.ipynb
+   - generate sample responses: run blenderbot_responses.ipynb and RLPA_responses.ipynb
    - run  automatic_evaluation.ipynb
 
 ## 4 Usage
