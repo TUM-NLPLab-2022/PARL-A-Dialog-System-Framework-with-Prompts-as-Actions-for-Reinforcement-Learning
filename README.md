@@ -1,9 +1,6 @@
 # PARL: A Dialog System Framework with Prompts as Actions for Reinforcement Learning
 
 
-## 0 Poster
-
-![](https://i.imgur.com/zVpqwAq.jpg)
 
 
 
