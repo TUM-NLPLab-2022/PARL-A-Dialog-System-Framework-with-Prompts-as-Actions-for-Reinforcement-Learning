@@ -1,6 +1,11 @@
 # PARL: A Dialog System Framework with Prompts as Actions for Reinforcement Learning
 
 
+## 0 Poster
+
+![](https://i.imgur.com/zVpqwAq.jpg)
+
+
 
 ## 1 File Structure
 The repository structure is as follows:
