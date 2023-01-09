@@ -1,1 +1,0 @@
-### Code in this module comes from: https://github.com/natashamjaques/neural_chat/tree/master/torchMoji/torchmoji
