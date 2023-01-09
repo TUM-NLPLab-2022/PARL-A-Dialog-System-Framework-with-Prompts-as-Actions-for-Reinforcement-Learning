@@ -1,1 +1,0 @@
-<img src="./static/img/PARLPoster.png" alt="PARL Poster" width=100%></img>
